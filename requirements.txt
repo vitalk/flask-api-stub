@@ -1,0 +1,7 @@
+Flask>=0.11.1
+SQLAlchemy>=0.9.7
+SQLAlchemy-Utils>=0.32.11
+Flask-Apify>=0.7.1
+Flask-SQLAlchemy>=2.1
+Flask-Marshmallow>=0.7.0
+inflection>=0.3.1

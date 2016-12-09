@@ -1,0 +1,10 @@
+# Python bytecode / optimized files
+__pytest__
+*.py[cod]
+
+# Setuptools / distribution / packaging
+*.egg
+*.egg-info
+build
+dist
+venv
